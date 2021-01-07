@@ -1,0 +1,6 @@
+[04-Sep-2010 12:31:51] PHP Parse error:  syntax error, unexpected '.' in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 354
+[04-Sep-2010 12:31:54] PHP Parse error:  syntax error, unexpected '.' in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 354
+[04-Sep-2010 12:40:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 354
+[04-Sep-2010 12:53:27] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 349
+[04-Sep-2010 12:53:28] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 349
+[06-Sep-2010 09:42:18] PHP Parse error:  syntax error, unexpected $end in /home/innekt/public_html/webboard/Themes/select2Darknight/index.template.php on line 354

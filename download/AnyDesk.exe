@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <!---->
+    <meta name="google-site-verification" content="YhiSkFpqiRG1bg47XUim75_Xv2lbPt59fw2rYD8zhfA" />
+    <link rel="shortcut icon" href="http://www.roietcctv.com/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.roietcctv.com/images/favicon.ico" type="image/x-icon">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <!-- Modal Shop Branch -->
+    <link rel="stylesheet" href="http://www.roietcctv.com/css/panel-regis.css">
+    <link rel="stylesheet" href="http://www.roietcctv.com/css/style-new.css">
+    <link rel="stylesheet" href="http://www.roietcctv.com/css/style.css">
+    <link rel="stylesheet" href="http://www.roietcctv.com/css/animations.css">
+    <link rel="stylesheet" href="http://www.roietcctv.com/css/font-awesome-animation.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.js"></script>
+    <script src="http://www.roietcctv.com/js/LazyLoad.js"></script>
+    <script src="http://www.roietcctv.com/js/css3-animate-it.js"></script>
+
+
+
+
+    <meta name="description" content="Zynek จำหน่าย CCTV กล้องวงจรปิด avtech cctv panasonic cctv โทรทัศน์กล้องวงจรปิด ทีวีกล้องวงจรปิด ระบบกล้องวงจรปิด"/>
+  	<meta name="keywords" content="กล้องวงจรปิด,cctv,avtech,panasonic,avtech cctv,panasonic cctv,โทรทัศน์กล้องวงจรปิด,ทีวีกล้องวงจรปิด,ระบบกล้องวงจรปิด,กล้องวงจรปิด CCTV system"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="www.roietcctv.com/AnyDesk.exe"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:site_name" content="ProSecure"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:image:width" content="960"/>
+    <meta property="og:image:height" content="560"/>
+    <meta property="og:image:type" content="image/jpeg"/>
+    <meta property="fb:app_id" content="624019881054213"/>
+    <meta property="article:author" content="https://www.facebook.com/zynekthailand"/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:image" content=""/>
+
+
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46609963-10"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-46609963-10');
+    </script>
+    <!--- Google Anaytic ---->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '1725710747671443');
+      fbq('track', "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1725710747671443&ev=PageView&noscript=1"/></noscript>
+    <!-- End Facebook Pixel Code -->
+
+
+
+  </head>
+  <body >
+
+
+<!-- LINK -->
+  <div class="row" style="margin:0px;border-bottom: 1px solid #e1e1e1;">
+
+      <div class="col-xs-12" style="padding:0px;background:#fff;color:#000;">
+        <div class="container" style="margin:0px  auto;padding:0px;">
+          <div class="col-xs-12 col-sm-12" style="padding:0px;">
+
+
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding:15px 0;">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" style="border: 1px solid #e1e1e1;">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar" style="border:1px solid #e1e1e1;"></span>
+                        <span class="icon-bar" style="border:1px solid #e1e1e1;"></span>
+                        <span class="icon-bar" style="border:1px solid #e1e1e1;"></span>
+                    </button>
+                    <a  class="navbar-brand" style="margin-left:5px;padding: 0px !important;" href="http://www.roietcctv.com/">
+                      <img src="http://www.roietcctv.com/images/logo_zynek.png" style="height:100%;width:auto;" />
+                    </a>
+
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="padding:0px;">
+                    <ul class="nav nav_2 navbar-nav   navbar-right" style="font-weight:300;padding: 5px;margin: 0px;">
+                        <li><a href="http://www.roietcctv.com/">Home</a></li>
+                        <li><a href="http://www.roietcctv.com/product">Product</a></li>
+                        <li><a href="http://www.roietcctv.com/news">News</a></li>
+                        <li><a href="http://www.roietcctv.com/downloads">Download</a></li>
+                        <li><a href="http://www.roietcctv.com/company">Company</a></li>
+                        <li><a href="http://www.roietcctv.com/contactus">Contact Us</a></li>
+                    </ul>
+                </div>
+              </div>
+
+          </div>
+        </div>
+      </div>
+
+
+  </div>
+  <!-- LINK -->
+
+<div class="row" style="margin:0px;">
+  
+<!-- jquerybanner S   -->
+<script type="text/javascript" src="http://www.roietcctv.com/plugins/jquerybanner/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="http://www.roietcctv.com/plugins/jquerybanner/js/jssor.slider.mini.js"></script>
+<script>
+
+  function centerModal() {
+      $(this).css('display', 'block');
+      var $dialog = $(this).find(".modal-dialog");
+      var offset = ($(window).height() - $dialog.height()) / 2;
+      // Center modal vertically in window
+      $dialog.css("margin-top", offset);
+  }
+
+  $('.modal').on('show.bs.modal', centerModal);
+  $(window).on("resize", function () {
+      $('.modal:visible').each(centerModal);
+  });
+
+  jQuery(document).ready(function ($) {
+
+    var jssor_1_SlideoTransitions = [
+      [{b:5500,d:3000,o:-1,r:240,e:{r:2}}],
+      [{b:-1,d:1,o:-1,c:{x:51.0,t:-51.0}},{b:0,d:1000,o:1,c:{x:-51.0,t:51.0},e:{o:7,c:{x:7,t:7}}}],
+      [{b:-1,d:1,o:-1,sX:9,sY:9},{b:1000,d:1000,o:1,sX:-9,sY:-9,e:{sX:2,sY:2}}],
+      [{b:-1,d:1,o:-1,r:-180,sX:9,sY:9},{b:2000,d:1000,o:1,r:180,sX:-9,sY:-9,e:{r:2,sX:2,sY:2}}],
+      [{b:-1,d:1,o:-1},{b:3000,d:2000,y:180,o:1,e:{y:16}}],
+      [{b:-1,d:1,o:-1,r:-150},{b:7500,d:1600,o:1,r:150,e:{r:3}}],
+      [{b:10000,d:2000,x:-379,e:{x:7}}],
+      [{b:10000,d:2000,x:-379,e:{x:7}}],
+      [{b:-1,d:1,o:-1,r:288,sX:9,sY:9},{b:9100,d:900,x:-1400,y:-660,o:1,r:-288,sX:-9,sY:-9,e:{r:6}},{b:10000,d:1600,x:-200,o:-1,e:{x:16}}]
+    ];
+
+    var jssor_1_options = {
+      $AutoPlay: true,
+      $SlideDuration: 800,
+      $SlideEasing: $Jease$.$OutQuint,
+      $CaptionSliderOptions: {
+        $Class: $JssorCaptionSlideo$,
+        $Transitions: jssor_1_SlideoTransitions
+      },
+      $ArrowNavigatorOptions: {
+        $Class: $JssorArrowNavigator$
+      },
+      $BulletNavigatorOptions: {
+        $Class: $JssorBulletNavigator$
+      }
+    };
+
+    var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+    function ScaleSlider() {
+        var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+        if (refSize) {
+            refSize = Math.min(refSize, 1920);
+            jssor_1_slider.$ScaleWidth(refSize);
+        }
+        else {
+            window.setTimeout(ScaleSlider, 30);
+        }
+    }
+    ScaleSlider();
+    $(window).bind("load", ScaleSlider);
+    $(window).bind("resize", ScaleSlider);
+    $(window).bind("orientationchange", ScaleSlider);
+
+
+
+
+    var jssor_2_slider = new $JssorSlider$("jssor_2", jssor_1_options);
+    function ScaleSlider2() {
+        var refSize = jssor_2_slider.$Elmt.parentNode.clientWidth;
+        if (refSize) {
+            refSize = Math.min(refSize, 1920);
+            jssor_2_slider.$ScaleWidth(refSize);
+        }
+        else {
+            window.setTimeout(ScaleSlider2, 30);
+        }
+    }
+    ScaleSlider2();
+    $(window).bind("load", ScaleSlider2);
+    $(window).bind("resize", ScaleSlider2);
+    $(window).bind("orientationchange", ScaleSlider2);
+    //responsive code end
+});
+</script>
+<style>
+  .jssorb05 {
+      position: absolute;
+  }
+  .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+      position: absolute;
+      /* size of bullet elment */
+      width: 16px;
+      height: 16px;
+      background: url('jquerybanner/img/b05.png') no-repeat;
+      overflow: hidden;
+      cursor: pointer;
+      display: none;
+  }
+  .jssorb05 div { background-position: -7px -7px; }
+  .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+  .jssorb05 .av { background-position: -67px -7px; }
+  .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+  .jssora22l, .jssora22r {
+      display: block;
+      position: absolute;
+      /* size of arrow element */
+      width: 40px;
+      height: 58px;
+      cursor: pointer;
+      background: url('jquerybanner/img/a22.png') center center no-repeat;
+      overflow: hidden;
+  }
+  .jssora22l { background-position: -10px -31px; }
+  .jssora22r { background-position: -70px -31px; }
+  .jssora22l:hover { background-position: -130px -31px; }
+  .jssora22r:hover { background-position: -190px -31px; }
+  .jssora22l.jssora22ldn { background-position: -250px -31px; }
+  .jssora22r.jssora22rdn { background-position: -310px -31px; }
+</style>
+<div class="row" style="margin:0px;background:#fff;">
+  <div class="register" style="margin:0px  auto;">
+		<div class="row hidden-xs" style="margin:0px;">
+	    <div class="col-lg-12 col-md-12" style="padding:0px;">
+        <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1100px; height: 300px; overflow: hidden; visibility: hidden;">
+          <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+              <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px;  width: 1100px; height: 300px;"></div>
+              <div style="position:absolute;display:block;background:url('jquerybanner/img/loading.gif') no-repeat center center;top:0px;left:0px; width: 1100px; height: 300px;"></div>
+          </div>
+
+  		    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1100px; height: 300px; overflow: hidden;">
+                        <div data-p="225.00" style="display: none;"><a href="#"><img data-u="image" src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-0W&w=1920&h=523" /></a></div>
+                        <div data-p="225.00" style="display: none;"><a href="#"><img data-u="image" src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-1W&w=1920&h=523" /></a></div>
+                        <div data-p="225.00" style="display: none;"><a href="#"><img data-u="image" src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-2W&w=1920&h=523" /></a></div>
+                        <div data-p="225.00" style="display: none;"><a href="#"><img data-u="image" src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-3W&w=1920&h=523" /></a></div>
+                        <div data-p="225.00" style="display: none;"><a href="#"><img data-u="image" src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-4W&w=1920&h=523" /></a></div>
+                      </div>
+
+          <div data-u="navigator" class="jssorb05" style="bottom:16px;right:16px;" data-autocenter="1">
+              <div data-u="prototype" style="width:16px;height:16px;"></div>
+          </div>
+          <span data-u="arrowleft" class="jssora22l" style="top:0px;left:12px;width:40px;height:58px;" data-autocenter="2"></span>
+          <span data-u="arrowright" class="jssora22r" style="top:0px;right:12px;width:40px;height:58px;" data-autocenter="2"></span>
+        </div>
+      </div>
+		</div>
+		<div class="row hidden-sm hidden-md hidden-lg" style="margin:0px;">
+	    <div class="col-lg-12 col-md-12" style="padding:0px;">
+        <div id="jssor_2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1000px; height: 600px; overflow: hidden; visibility: hidden;">
+          <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+              <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 1000px; height: 600px;"></div>
+              <div style="position:absolute;display:block;background:url('jquerybanner/img/loading.gif') no-repeat center center;top:0px;left:0px; width: 1000px; height: 600px;"></div>
+          </div>
+          <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1000px; height: 600px; overflow: hidden;">
+                        <div data-p="225.00" style="display: none;">	<a href="#"><img data-u="image" class="lazy" src="img/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-0S&w=800&h=480" /></a></div>
+                        <div data-p="225.00" style="display: none;">	<a href="#"><img data-u="image" class="lazy" src="img/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-1S&w=800&h=480" /></a></div>
+                        <div data-p="225.00" style="display: none;">	<a href="#"><img data-u="image" class="lazy" src="img/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-2S&w=800&h=480" /></a></div>
+                        <div data-p="225.00" style="display: none;">	<a href="#"><img data-u="image" class="lazy" src="img/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-3S&w=800&h=480" /></a></div>
+                        <div data-p="225.00" style="display: none;">	<a href="#"><img data-u="image" class="lazy" src="img/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=Picture-4S&w=800&h=480" /></a></div>
+                      </div>
+          <div data-u="navigator" class="jssorb05" style="bottom:16px;right:16px;" data-autocenter="1">
+              <div data-u="prototype" style="width:16px;height:16px;"></div>
+          </div>
+  	      <span data-u="arrowleft" class="jssora22l" style="top:0px;left:12px;width:40px;height:58px;" data-autocenter="2"></span>
+          <span data-u="arrowright" class="jssora22r" style="top:0px;right:12px;width:40px;height:58px;" data-autocenter="2"></span>
+        </div>
+      </div>
+		</div>
+  </div>
+</div>
+<!-- jquerybanner S -->
+
+
+<!-- Dealer Login -->
+<div class="row" style="background:url('http://www.roietcctv.com/images/bg_zynek.png') no-repeat center center #fff;background-attachment: fixed;margin:0px;">
+  <div class="container" style="padding:50px 15px 20px 15px;">
+    <div class="col-xs-12 col-sm-12" style="padding:0px">
+
+      <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8" style="padding: 30px 15px;margin:10px 0px;">
+        <div class="panel panel-default" style="padding:15px;border-radius:6px;">
+        <p style="line-height: 1.8;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>บริษัท ซายเนค เทคโนโลยี่ จำกัด</b> ผู้นำเข้าจัดจำหน่าย กล้องวงจรปิด CCTV ภายใต้ตราสินค้า AVTECH iNNEKT ที่ได้รับการแต่งตั้งอย่างเป็นทางการ มีตัวแทนจำหน่ายพร้อมให้บริการ ทั่วประเทศ ด้วยเทคโนโลยี กล้องวงจรปิด ที่ทันสมัย  และทีมวิจัยพัฒนาอย่าง ต่อเนื่องของ AVTECH Corp ทำให้มีผู้ใช้มากที่สุดในโลก   หลายท่านจึงไว้วางใจ ที่จะเลือกใช้ ระบบกล้องวงจรปิด CCTV System ภายใต้ การดูแลให้บริการโดย AVTECH by ZYNEK
+          บริษัทฯ ได้เป็นตัวแทนจำหน่าย กล้องวงจรปิด Panasonic CCTV ได้คัดเลือก นำเข้าเลนส์  EVETAR เลนส์ที่ใช้สำหรับกล้องวงจรปิดโดยเฉพาะ และอุปกรณ์เสริมต่างๆ ของ กล้องวงจรปิด CCTV เพื่อให้ครอบคลุม สมบูรณ์ ตามความต้องการใช้งานด้านระบบรักษาความปลอดภัย กล้องวงจรปิด CCTV ของลูกค้าเป็นสำคัญ</p>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" style="padding: 30px 0px;margin:10px 0px;">
+          <div class="col-xs-12 col-xs-offset-0 col-sm-6 col-sm-offset-3 col-md-12 col-md-offset-0 col-lg-12 col-lgoffset-0">
+              <div class="modal-content" style="padding:15px;border-radius:6px;">
+                <h2 style="color:#16994e;margin:25px 0;" class="text-center">Dealer Login</h2>
+                <form autocomplete="off">
+
+                  <div class="input-group" style="margin: 0px 0px 15px 0;">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                    <input type="text" class="form-control" id="user_name" placeholder="Username" autocomplete="off">
+                  </div>
+                  <div class="input-group" style="margin: 0px 0px 15px 0;">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                    <input type="password" class="form-control" id="pass_word" placeholder="Password" autocomplete="off">
+                  </div>
+                  <div class="form-group">
+                    <button type="button" class="btn btn-lg" id="check_login" style="width:100%;background:#16994e;color:#fff;padding: 8px;">Login</button>
+                  </div>
+                  <div class="form-group" id="show_login"> </div>
+                </form>
+
+
+                <script>
+                  $(document).ready(function() {
+
+                    $.fn.calcameraCCTV = function() {
+                      $.post('../system/query.php',
+                      {
+                        cal_pixel   : $("#cal_pixel").val(),
+                        cal_frame   : $("#cal_frame").val(),
+                        cal_camera  : $("#cal_camera").val(),
+                        cal_day     : $("#cal_day").val(),
+                        post        : "calculate_cctv"
+                      }, function(data) {
+                        $("#show_calculate").html(data);
+                      });
+                    };
+                    $("#check_calculate").click(function(event) {
+                      $(this).calcameraCCTV();
+                    });
+                    $("#cal_pixel").change(function(event) {
+                        $(this).calcameraCCTV();
+                    });
+                    $("#cal_frame").change(function(event) {
+                        $(this).calcameraCCTV();
+                    });
+                    $("#cal_camera").change(function(event) {
+                        $(this).calcameraCCTV();
+                    });
+                    $("#cal_day").change(function(event) {
+                        $(this).calcameraCCTV();
+                    });
+
+
+                  });
+                </script>
+
+              </div>
+          </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+<!-- Dealer Login -->
+
+
+<!-- Promotion -->
+<div class="row" style="background:#fff;margin:50px 0 80px 0;">
+  <div class="container" style="padding:0px;">
+    <div class="col-xs-12" style="padding:0px">
+
+
+        <h3 class="col-xs-12 text-center" >Promotion</h3>
+
+        <div class="col-xs-12" style="padding: 20px 15px;">
+          <div class="col-xs-12" style="padding:0px">
+            <a href="#" class="link hidden-xs col-sm-12" style="padding:0px">
+              <img src="http://www.roietcctv.com/images/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=200&txt=w=1920h=523&w=1920&h=523" class="lazy col-xs-12"  style="padding:0px"  />
+            </a>
+            <a href="#" class="link hidden-sm hidden-md hidden-lg col-xs-12" style="padding:0px">
+              <img src="http://www.roietcctv.com/images/loading.gif" data-src="https://placeholdit.imgix.net/~text?txtsize=120&txt=w=800h=400&w=800&h=400" class="lazy col-xs-12"   style="padding:0px" />
+            </a>
+          </div>
+        </div>
+
+    </div>
+  </div>
+</div>
+<!-- Promotion -->
+
+
+<!-- Category -->
+<div class="row animated fadeIn go slower " style="margin:0px;background:#16994e;color:#fff;">
+  <div class="container" style="margin:0px  auto;padding:0px;">
+    <div class="col-sm-12" style="padding:50px 0px;">
+
+      <h3 class="col-xs-12 text-center" >Category</h3>
+
+
+      <div class="col-xs-12 text-center" style="padding: 20px 15px;font-family: 'rsu_textregular';">
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <div class="col-xs-12 abcd animated-hover">
+            <a href="http://www.roietcctv.com/regisdealer" class="col-sm-12 col-xs-12" style="background:#0c7b3c;font-size:16px;line-height: 1.9;padding:20px 0;">
+              <i class="fa fa-user-plus fa-4x faa-tada" aria-hidden="true"></i><br>สมัครตัวแทน
+            </a>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <div class="col-xs-12 abcd animated-hover">
+            <a href="http://www.roietcctv.com/seminar" class="col-sm-12 col-xs-12" style="background:#0c7b3c;font-size:16px;line-height: 1.9;padding:20px 0;">
+              <i class="fas fa-chalkboard-teacher fa-4x faa-tada"></i><br>ตารางสัมมนา
+            </a>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-6 col-md-3">
+          <div class="col-xs-12 abcd animated-hover">
+            <a href="http://www.roietcctv.com/technicial" class="col-sm-12 col-xs-12" style="background:#0c7b3c;font-size:16px;line-height: 1.9;padding:20px 0;">
+              <i class="fas fa-user-cog fa-4x faa-tada" aria-hidden="true"></i><br>ช่วยเหลือ
+            </a>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-6 col-md-3">
+          <div class="col-xs-12 abcd animated-hover">
+            <a href="http://www.roietcctv.com/jobs" class="col-sm-12 col-xs-12" style="background:#0c7b3c;font-size:16px;line-height: 1.9;padding:20px 0;">
+              <i class="fas fa-hands-helping fa-4x faa-tada" aria-hidden="true"></i><br>ร่วมงานกับเรา
+            </a>
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+</div>
+<!-- Category -->
+
+
+
+<!-- Blog & Review  -->
+<div class="row animated fadeIn go slower " style="margin:0px;background:#fff;">
+  <div class="container" style="margin:0px  auto;padding:0px;">
+    <div class="col-sm-12" style="padding:0px 0px 50px 0px;">
+        <div class="row" style="margin:0px;">
+
+            <div class="col-xs-12 col-sm-12" style="padding:50px 0 0 0;">
+              <h3 class="col-xs-12 text-center" >Review & Blog</h3>
+            </div>
+            <div class="col-xs-12 col-sm-12" style="padding:10px 0;">
+              
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-2 hidden-md col-md-3 col-sm-6 col-xs-6"  style="padding:0px;">
+                <div class="col-xs-12"  style="padding:5px;">
+                  <a href="http://www.roietcctv.com/review/" class="col-xs-12 mouse_on2">
+                    <div class="col-xs-12 photo_img" style="border-radius: 5px;  background-position: center;border-radius: 5px;background-size: cover;width: 100%;background-color: black;height: auto;background:#000;">
+                      <img src="http://www.roietcctv.com/images/loading.gif" style="display:none;" data-src="http://www.roietcctv.com/ma/path/video/" class="lazy photo_in" />
+                      <div class="text-center hover_onmouse"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+<!-- End Blog & Review  -->
+
+
+
+<!-- Category -->
+<div class="row animated fadeIn go slower " style="margin:0px;background:#f3f3f3;color:#16994e;">
+  <div class="container" style="margin:0px  auto;padding:0px;">
+    <div class="col-sm-12" style="padding:10px 0px;">
+
+      <h3 class="col-xs-12 text-left" >Weblink</h3>
+      <div class="col-xs-12" style="margin:15px 0;">
+        <div class="weblink_text">
+          <a href="http://www.zynek.com/" target="_blank">Zynek</a>
+          <a href="http://www.innekt.com/" target="_blank">iNNEKT</a>
+          <a href="http://www.prosecureshop.com/" target="_blank">ProSecureShop</a>
+          <a href="http://www.zynektechnologies.co.th/" target="_blank">Zynektechnologies.co.th</a>
+        </div>
+      </div>
+
+      <style>
+        div.weblink_text{
+          line-height: 1.7; float: left;
+        }
+        div.weblink_text a{
+          padding: 5px 15px;
+          background: #636363;
+          margin:4px 4px;
+          display: inline-block;
+          border-radius: 6px;
+          color: #fff;
+        }
+        div.weblink_text a:hover{
+          color: #e1e1e1;
+          background: #929292;
+          text-decoration: none;
+        }
+        a.link_button{
+          font-weight: 400;
+          float: left;
+          font-size: 20px;
+          display: block;
+          padding: 20px 30px;
+          border: 1px solid #929292;
+          border-radius: 5px;
+          text-align: center;
+          color: #0e0e0e;
+          box-shadow: 0 1px 3px #ccc;
+          background: #bfbfbf;
+        }
+      </style>
+      <div class="col-xs-12" style="margin:15px 0;display:none;">
+          <a href="#" class="btn link_button">ติดต่อฝ่ายเคลม</a>
+      </div>
+
+
+
+    </div>
+  </div>
+</div>
+<!-- Category -->
+</div>
+
+
+<!-- Footer -->
+  <div class="col-xs-12" style="padding:15px 0 0 0;background:#ebebeb;color:#000;">
+      <div class="register  container" style="margin:45px  auto;">
+        <div class="col-xs-12 col-sm-12" style="padding:15px;">
+
+          <div class="row has-divider">
+              <div class="footer-col download col-xs-12 col-sm-4 col-md-4">
+                <div class="footer-col-inner">
+                    <h3 class="title" style="font-weight:200;margin:15px -15px;color:#16994e;">Call Center</h3>
+                    <div class="row" style="font-weight:200;">
+                      <p class="tel" style="font-size: 34px;"><i class="fa fa-phone-volume" style="color:#444444;"></i> <a href="tel:025134330" style="text-decoration: none;color:#444444;font-weight: bold;">02 513 4330</a></p>
+                      <p class="adr clearfix"  style="color:#606060;font-size: 18px;">
+                          <span class="adr-group pull-left">
+                            <span class="street-address"> <i class="fa fa-calendar-alt"></i> เปิดทำการ วันจันทร์-ศุกร์</span><br>
+                            <span class="street-address"> <i class="fa fa-clock"></i> เวลา 8:15น. ถึง 17:00น. </span>
+                          </span>
+                      </p>
+                    </div>
+                </div>
+              </div>
+              <div class="footer-col contact col-xs-12 col-sm-8 col-md-6">
+                  <div class="footer-col-inner">
+                      <h3 class="title" style="font-weight:200;margin:15px -15px;color:#16994e;">Contact us</h3>
+                      <div class="row" style="font-weight:200;">
+                        <p class="adr clearfix"  style="color:#606060;">
+                          <i class="fa fa-map-marker-alt pull-left" style="color:#444444;margin: 8px 0 0 -5px;"></i>
+                          <span class="adr-group pull-left" style="padding-left: 10px;" >
+                              <span class="street-address"><b style="font-size:19px;color:#444444;">บริษัท ซายเนค เทคโนโลยี่ จำกัด (สำนักงานใหญ่)</b></span><br>
+                              <span class="street-address">444 อาคารโอลิมเปียไทย พลาซ่า ชั้น 4</span><br>
+                              <span class="street-address">ถนนรัชดาภิเษก แขวงสามเสนนอก เขตห้วยขวาง กรุงเทพฯ 10310</span>
+                          </span>
+                        </p>
+                        <p class="email" style="font-size: 18px;">
+                          <i class="far fa-envelope"></i><a href="mailto:info@zynek.com"  style="text-decoration: none;color:#606060;"> info@zynek.com</a>
+                          <span class="street-address"><b style="color:#444444;">แฟ็กซ์ :</b> <a href="fax:025134426" style="text-decoration: none;color:#606060;">02-513-4426</a></span><br>
+                        </p>
+                      </div>
+                  </div>
+              </div>
+              <div class="footer-col contact hidden-xs col-sm-4 col-md-2">
+                <div class="footer-col-inner">
+                    <h3 class="title" style="font-weight:200;margin:15px -15px;color:#16994e;">Social Media</h3>
+                    <div class="row cs_link" style="font-weight:200;color:#606060;">
+                      <a href="https://th-th.facebook.com/zynekthailand" target="_blank" style="display:block;">
+                        <img src="http://www.roietcctv.com/images/fb.png" class="col-xs-4" style="padding:0px;border-radius: 50px;" />
+                      </a>
+                      <a href="http://line.me/ti/p/~@zynekthailand" target="_blank" style="display:block;">
+                        <img src="http://www.roietcctv.com/images/li.png" class="col-xs-4" style="padding:0px;border-radius: 50px;" />
+                      </a>
+                      <a href="http://www.youtube.com/c/ProSecureShopofficial" target="_blank" style="display:block;">
+                        <img src="http://www.roietcctv.com/images/yt.png" class="col-xs-4" style="padding:0px;border-radius: 50px;" />
+                      </a>
+                    </div>
+                </div>
+              </div>
+          </div>
+
+        </div>
+      </div>
+
+      <footer class="footer">
+          <div class="text-center col-xs-12" style="padding:20px 0;background:#16994e;color:#fff;">สงวนลิขสิทธิ์ © 2561  <a href="http://www.zynekcctv.com" style="color:#fff;text-decoration: none;">บริษัท ซายเนค เทคโนโลยี่ จำกัด</a></div>
+      </footer>
+    </div>
+    <!-- End Footer -->
+
+  </div>
+  <!-- Click to top -->
+  <div class="hide_back_to_top" id="back-to-top">
+    <a id="back_to_top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    </a>
+  </div>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      if ($('#back-to-top').length) {
+          var scrollTrigger = 100, // px
+              backToTop = function () {
+                  var scrollTop = $(window).scrollTop();
+                  if (scrollTop > scrollTrigger) {
+                      $('#back-to-top').addClass('show_back_to_top');
+                      $('#back-to-top').removeClass('hide_back_to_top');
+                  } else {
+                      $('#back-to-top').removeClass('show_back_to_top');
+                      $('#back-to-top').addClass('hide_back_to_top');
+                  }
+              };
+          backToTop();
+          $(window).on('scroll', function () {
+              backToTop();
+          });
+          $('#back-to-top').on('click', function (e) {
+              e.preventDefault();
+              $('html,body').animate({
+                  scrollTop: 0
+              }, 700);
+          });
+      }
+    });
+  </script>
+  <!-- Click to top -->
+<!-- Footer -->
+
+
+  </body>
+</html>

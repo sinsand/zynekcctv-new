@@ -1,0 +1,7 @@
+<?php
+// Version: 1.1; Modifications
+
+$txt['youtube'] = 'YouTube';
+$txt['youtube_invalid'] = '#Invalid YouTube Link#';
+
+?>

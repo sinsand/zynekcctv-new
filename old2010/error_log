@@ -1,0 +1,106 @@
+[22-Jul-2009 10:52:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:52:52] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 10
+[22-Jul-2009 10:55:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:55:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 10
+[22-Jul-2009 10:55:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:55:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 10
+[22-Jul-2009 10:56:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:56:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 10:56:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:56:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 10:56:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:56:31] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 10:56:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 10:56:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:00:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:00:00] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:01:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:01:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:01:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:01:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:01:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:01:37] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:01:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:01:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:02:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zynektect'@'localhost' (using password: YES) in /home/zynektec/public_html/connect.php on line 7
+[22-Jul-2009 11:02:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[22-Jul-2009 11:05:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/delete_products3.php on line 31
+[22-Jul-2009 11:06:36] PHP Parse error:  syntax error, unexpected '}' in /home/zynektec/public_html/delete_products3.php on line 42
+[22-Jul-2009 11:07:01] PHP Parse error:  syntax error, unexpected T_ELSE in /home/zynektec/public_html/delete_products3.php on line 43
+[22-Jul-2009 11:07:03] PHP Parse error:  syntax error, unexpected T_ELSE in /home/zynektec/public_html/delete_products3.php on line 43
+[22-Jul-2009 11:07:25] PHP Parse error:  syntax error, unexpected '}' in /home/zynektec/public_html/delete_products3.php on line 51
+[22-Jul-2009 11:10:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/zynektec/public_html/delete_products3.php on line 8
+[22-Jul-2009 11:26:22] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:27:04] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:32] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:33] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:33] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:34] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:34] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:34] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:34] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:28:41] PHP Parse error:  syntax error, unexpected '*' in /home/zynektec/public_html/delete_products3.php on line 34
+[22-Jul-2009 11:29:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/delete_products3.php on line 27
+[23-Jul-2009 11:00:48] PHP Parse error:  syntax error, unexpected '}' in /home/zynektec/public_html/login_admin.php on line 70
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 7
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 7
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 8
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 8
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 9
+[23-Jul-2009 11:01:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 10
+[28-Jul-2009 16:18:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 15
+[28-Jul-2009 16:18:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 16
+[29-Jul-2009 09:29:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 15
+[29-Jul-2009 09:29:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 16
+[29-Jul-2009 09:30:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 16
+[29-Jul-2009 09:30:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/update_product.php on line 17
+[04-Aug-2009 14:24:31] PHP Parse error:  syntax error, unexpected $end in /home/zynektec/public_html/Templates_list_products1.php on line 309
+[04-Aug-2009 14:39:59] PHP Parse error:  syntax error, unexpected '}' in /home/zynektec/public_html/Templates_list_products1.php on line 86
+[03-Sep-2009 03:03:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 03:03:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 03:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 03:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 04:07:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 04:07:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 04:07:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 04:07:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 04:50:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 04:50:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 05:15:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (11) in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 05:15:39] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 05:16:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (11) in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 05:16:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 05:22:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (11) in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 05:23:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 05:59:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 06:00:13] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 06:05:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 06:05:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 06:05:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 06:05:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 06:10:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 06:10:13] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 07:25:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 07:25:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 07:25:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 07:25:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[03-Sep-2009 07:25:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server during query in /home/zynektec/public_html/connect.php on line 7
+[03-Sep-2009 07:25:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zynektec/public_html/connect.php on line 9
+[21-Sep-2009 14:08:37] PHP Warning:  move_uploaded_file(/home/zynektec/public_html/uploadfiles/White54.gif) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/zynektec/public_html/add_product1.php on line 34
+[21-Sep-2009 14:08:37] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpkDLPIY' to '/home/zynektec/public_html/uploadfiles/White54.gif' in /home/zynektec/public_html/add_product1.php on line 34
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 7
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 7
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 8
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 8
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 9
+[03-Nov-2009 11:46:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 10
+[04-Nov-2009 16:30:12] PHP Warning:  getimagesize(QNAP/NVR-104.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/zynektec/public_html/index.php on line 13
+[04-Nov-2009 16:30:12] PHP Warning:  getimagesize(QNAP/VioStor-2012.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/zynektec/public_html/index.php on line 13
+[04-Nov-2009 16:32:19] PHP Warning:  getimagesize(QNAP/NVR-104.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/zynektec/public_html/index.php on line 13
+[04-Nov-2009 16:32:19] PHP Warning:  getimagesize(QNAP/VioStor-2012.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/zynektec/public_html/index.php on line 13
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 7
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 7
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: Access denied for user 'zynektec'@'localhost' (using password: NO) in /home/zynektec/public_html/checklogin_admin.php on line 8
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: A link to the server could not be established in /home/zynektec/public_html/checklogin_admin.php on line 8
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 9
+[22-Dec-2009 14:13:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zynektec/public_html/checklogin_admin.php on line 10
